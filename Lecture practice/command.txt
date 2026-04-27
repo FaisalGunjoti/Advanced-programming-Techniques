@@ -1,0 +1,15 @@
+g++ -std=c++20 -Wall -Wextra -Wpedantic advpt.cpp -o advpt && ./advpt
+
+for eigen related compilation
+g++ -std=c++20 -I"$(brew --prefix eigen)"/include/eigen3 advpt.cpp -o advpt
+./advpt
+
+for c++23
+g++ -std=c++23 -Wall -Wextra -Wpedantic advpt.cpp -o advpt && ./advpt
+
+g++ -std=c++20 -Wall -Wextra -Wpedantic practice.cpp -o advpt && ./advpt
+
+g++ -std=c++23 -Wall -Wextra -Wpedantic practice.cpp -o advpt && ./advpt
+
+g++ -std=c++20 -I"$(brew --prefix eigen)"/include/eigen3 practice.cpp -o advpt
+./advpt

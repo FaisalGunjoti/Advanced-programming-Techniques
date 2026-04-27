@@ -1,0 +1,17 @@
+exam in advpt are basically theory as well as implementation oriented
+implementation oriented means there will be finding errors and write a code for the questions
+the questions are basically inspired from project
+so practicing project is important for the exam
+reading the slide in depth is very important or the exam
+
+
+the topics are
+1) Standard template library
+2) chrono library is majorly there in all the exam
+3) fucntions and template
+4) their is also some theory questions in the end of the paper whcih seems to be repatedly asked so better make those ansewwrs and keep
+5) 
+
+
+
+what i will do is in the same file i will write those questions and practice in this folder itself
